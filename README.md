@@ -8,3 +8,11 @@
 - Mesa de Poker
 - Truco
 - Caçula dos Adultos
+- Contador de Palavras
+- Americano
+- Promoção!
+- Zerinho ou Um
+- Taxímetro
+- cAPS lOCK oN
+- Distância Máxima
+- Cofre Bugadão
